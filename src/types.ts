@@ -1,8 +1,10 @@
-import { FC } from "react";
+import { FC, CSSProperties } from "react";
 
 interface RenderProps<T = any> extends Record<string, any> {
   dataIndex?: string | string[],
   dataSource?: T,
+  className?: string,
+  style?: CSSProperties
 }
 
 
