@@ -78,5 +78,11 @@
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "stylelint": "^14.9.1"
+  },
+  "dependencies": {
+    "@types/lodash-es": "^4.17.12",
+    "classnames": "^2.5.1",
+    "lodash-es": "^4.17.21",
+    "rc-table": "^7.48.1"
   }
 }
