@@ -1,1 +1,2 @@
-This is a guide example.
+
+<code src='./table.tsx'></code>
